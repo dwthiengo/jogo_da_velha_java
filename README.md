@@ -1,1 +1,1 @@
-# jogo_da_velha_java
+Aplicação de Jogo da Velha para consolidação de conhecimentos em Java
